@@ -10,7 +10,7 @@ theme: seriph
   </p>
   </div>
 <p> I'm a ...</p>
-<div style= 'display:flex; flex-direction:column; gap: 1px'>
+<div style= 'display:flex; flex-direction:column; gap: 4px'>
   <div style = 'display: flex; align-items:center' >
   <img src="./image.png" alt="Ant" width='30px'> <span style="margin-left: 10px;"> <i>steady person</i> </span>
 
