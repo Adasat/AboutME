@@ -1,20 +1,15 @@
----
-theme: seriph
----
+
 
 # Hello World!
 
-  <div>
-  <p style = 'text-align:center;'>
-  <img src="./Logo.png" alt="Logo" width="150px" >
-  </p>
-  </div>
+ 
 <p> I'm a ...</p>
 <div style= 'display:flex; flex-direction:column; gap: 4px'>
   <div style = 'display: flex; align-items:center' >
   <img src="./image.png" alt="Ant" width='30px'> <span style="margin-left: 10px;"> <i>steady person</i> </span>
 
   </div>
+ 
 
   <div style = 'display: flex; align-items:center' >
   <img src="./image-1.png" alt="Ant" width='30px'> <span style="margin-left: 10px;"> <i>easy learner</i> </span>
