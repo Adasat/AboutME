@@ -22,7 +22,7 @@
   </div>
 
   <div style = 'display: flex; align-items:center' >
-  <img src="./image-4.png" alt="Ant" width='30px'> <span style="margin-left: 10px;"> <i>person with the ability to work in a team</i> </span>
+  <img src="./image-4.png" alt="Ant" width='30px'> <span style="margin-left: 10px;"> <i>co-worker</i> </span>
 
   </div>
 
