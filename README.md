@@ -1,7 +1,5 @@
-<div style='display: flex; justify-content: center'>
-  <img src='./images/HiADASAT.png' title="Hi" alt="Hi align='center" width="300" height="180"/>&nbsp;
+<div align="center"> <img src='./images/HiADASAT.png' title="Hi" alt="Hi" justify="center" width="300" height="180"/>&nbsp; </div>
   
-</div>
 
 <h3 align="center">A passionate frontend developer from Canary Island. But I love a good backend project.</h3>
 
