@@ -1,40 +1,44 @@
+<div style='display: flex; justify-content: center'>
+  <img src='./images/hiAdasat.png' title="VueJS" alt="VueJS" width="300" height="180"/>&nbsp;
 
-<h1 align="center">Hi 👋, I'm Pedro Bonilla</h1>
+</div>
+
 <h3 align="center">A passionate frontend developer from Canary Island. But I love a good backend project.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adasat&label=Profile%20views&color=0e75b6&style=flat" alt="adasat" /> </p>
 <p> I'm a ...</p>
 <div style= 'display:flex; flex-direction:column; gap: 4px; margin-bottom: 20px'>
   <div style = 'display: flex; align-items:center; ' >
-  <img src="./image.png" alt="Ant" width='30px'> <span style="margin-left: 10px;"> <i>steady person</i> </span>
+  <img src="./images/steady-removebg-preview.png" alt="Steady Person" width='30px'> <span style="margin-left: 10px;"> <i>steady person</i> </span>
 
   </div>
  
 
   <div style = 'display: flex; align-items:center' >
-  <img src="./image-1.png" alt="Ant" width='30px'> <span style="margin-left: 10px;"> <i>easy learner</i> </span>
+  <img src="./images/easyLearner-removebg-preview.png" alt="Easy Learner" width='30px'> <span style="margin-left: 10px;"> <i>easy learner</i> </span>
 
   </div>
 
   <div style = 'display: flex; align-items:center' >
-  <img src="./image-3.png" alt="Ant" width='30px'> <span style="margin-left: 10px;"> <i>autonomous person</i> </span>
+  <img src="./images/autonoma-removebg-preview.png" alt="Autonomous" width='30px'> <span style="margin-left: 10px;"> <i>autonomous person</i> </span>
 
   </div>
 
   <div style = 'display: flex; align-items:center' >
-  <img src="./image-4.png" alt="Ant" width='30px'> <span style="margin-left: 10px;"> <i>co-worker</i> </span>
+  <img src="./images/co-worker-removebg-preview.png" alt="Co-Worker" width='30px'> <span style="margin-left: 10px;"> <i>co-worker</i> </span>
 
   </div>
 
   <div style = 'display: flex; align-items:center' >
-  <img src="./image-2.png" alt="Ant" width='30px'> <span style="margin-left: 10px;"> <i>positive person</i> </span>
+  <img src="./images/positive-removebg-preview.png" alt="Positive" width='30px'> <span style="margin-left: 10px;"> <i>positive person</i> </span>
 
   </div>
 </div>
 <!-- Estas líneas en blanco crean un espacio extra -->
 <hr/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Adasat&theme=javascript-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Adasat&theme=javascript-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats) 
 
 
 | <a href="https://github.com/Adasat/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Adasat&show_icons=true&include_all_commits=true&theme=highcontrast&hide_border=true" alt="Adasat's github stats" /></a> | <a href="https://github.com/Adasat/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adasat&layout=compact&theme=highcontrast&hide_border=true" /></a> |
