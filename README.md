@@ -7,28 +7,28 @@
 <p> I'm a ...</p>
 <div style= 'display:flex; flex-direction:column; gap: 4px; margin-bottom: 20px'>
   <div style = 'display: flex; align-items:center; ' >
-  <img src="./images/steady-removebg-preview.png" alt="Steady Person" width='30px'> <span style="margin-left: 10px;"> <i>steady person</i> </span>
+  <img src="./images/steady-removebg-preview.png" alt="Steady Person" width='50px'> <span style="margin-left: 10px;"> <i>steady person</i> </span>
 
   </div>
  
 
   <div style = 'display: flex; align-items:center' >
-  <img src="./images/easyLearner-removebg-preview.png" alt="Easy Learner" width='30px'> <span style="margin-left: 10px;"> <i>easy learner</i> </span>
+  <img src="./images/easyLearner-removebg-preview.png" alt="Easy Learner" width='50px'> <span style="margin-left: 10px;"> <i>easy learner</i> </span>
 
   </div>
 
   <div style = 'display: flex; align-items:center' >
-  <img src="./images/autonoma-removebg-preview.png" alt="Autonomous" width='30px'> <span style="margin-left: 10px;"> <i>autonomous person</i> </span>
+  <img src="./images/autonoma-removebg-preview.png" alt="Autonomous" width='50px'> <span style="margin-left: 10px;"> <i>autonomous person</i> </span>
 
   </div>
 
   <div style = 'display: flex; align-items:center' >
-  <img src="./images/co-worker-removebg-preview.png" alt="Co-Worker" width='30px'> <span style="margin-left: 10px;"> <i>co-worker</i> </span>
+  <img src="./images/co-worker-removebg-preview.png" alt="Co-Worker" width='50px'> <span style="margin-left: 10px;"> <i>co-worker</i> </span>
 
   </div>
 
   <div style = 'display: flex; align-items:center' >
-  <img src="./images/positive-removebg-preview.png" alt="Positive" width='30px'> <span style="margin-left: 10px;"> <i>positive person</i> </span>
+  <img src="./images/positive-removebg-preview.png" alt="Positive" width='50px'> <span style="margin-left: 10px;"> <i>positive person</i> </span>
 
   </div>
 </div>
