@@ -1,4 +1,4 @@
-<div align="center"> <img src='./images/HiADASAT.png' title="Hi" alt="Hi" justify="center" width="500" height="240"/>&nbsp; </div>
+<div align="center"> <img src='./images/HiADASAT.png' title="Hi" alt="Hi" justify="center" width="400" height="200"/>&nbsp; </div>
   
 
 <h3 align="center">A passionate frontend developer from Canary Island. But I love a good backend project.</h3>
